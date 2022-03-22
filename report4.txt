@@ -1,0 +1,21 @@
+PRODUCTS ORDERED WITHIN A SPECIFIED DAY
+-------------------------------------------
+
+
+Name Frozen Sunrise Margaritas 
+Rating 5.0
+Calories 282
+Protein 2
+Fat 0
+Sodium 22593
+
+Name Fresh Carrot Sauce 
+Rating 3.75
+Calories 101
+Protein 1
+Fat 8
+Sodium 441
+
+
+-------------------------------------
+END OF REPORT

@@ -1,0 +1,8 @@
+CLIENTS THAT HAVE ORDERED MORE THAN A SPECIFIED NUMBER OF TIMES AND THE VALUE OF THE ORDER IS HIGHER THAN A SPECIFIED AMOUNT
+-------------------------------------------
+
+
+Client ID:1
+
+-------------------------------------
+END OF REPORT

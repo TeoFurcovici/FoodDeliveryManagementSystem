@@ -1,0 +1,6 @@
+Order ID: 2
+Client ID: 2
+Date: 18/5/2021
+Total price: 15
+Time:08:35:43.343882500
+meniu1

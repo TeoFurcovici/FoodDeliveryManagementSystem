@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f449abf-b186-4829-bfff-48d52a115fe4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bill.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bill.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incercare.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/report1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/businessLayer/BaseProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/businessLayer/BaseProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/businessLayer/CompositeProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/businessLayer/CompositeProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/businessLayer/DeliveryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/businessLayer/DeliveryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/businessLayer/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/businessLayer/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/businessLayer/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/businessLayer/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dataLayer/FileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataLayer/FileWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dataLayer/Serializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataLayer/Serializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/presentationLayer/AdminUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/presentationLayer/AdminUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/presentationLayer/ClientUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/presentationLayer/ClientUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/presentationLayer/EmployeeUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/presentationLayer/EmployeeUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/presentationLayer/PrincipalUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/presentationLayer/PrincipalUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/businessLayer/BaseProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/businessLayer/BaseProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/businessLayer/CompositeProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/businessLayer/CompositeProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/businessLayer/DeliveryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/businessLayer/DeliveryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/businessLayer/MenuItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/businessLayer/MenuItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/businessLayer/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/businessLayer/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataLayer/FileWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dataLayer/FileWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dataLayer/Serializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dataLayer/Serializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/AdminUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/ClientUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/ClientUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/ClientUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/ClientUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/ClientUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/ClientUI$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/ClientUI$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/ClientUI$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/ClientUI$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/ClientUI$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/ClientUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/ClientUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/EmployeeUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/EmployeeUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/EmployeeUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/EmployeeUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/PrincipalUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/PrincipalUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/PrincipalUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/PrincipalUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/PrincipalUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/PrincipalUI$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/PrincipalUI$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/PrincipalUI$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/PrincipalUI$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/PrincipalUI$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/presentationLayer/PrincipalUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/presentationLayer/PrincipalUI.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects />
+    <settings elmCompilerPath="C:\Program Files (x86)\Elm\0.19.1\bin\elm.exe" elmFormatPath="null" elmTestPath="C:\Users\Teo\AppData\Roaming\npm\elm-test.cmd" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1sFDv1PZanvlVmxEvVBeDka4keS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PT2021_30421_Furcovici_Teodora-Melania_Assignment_3" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.elm.workspace.PROJECT_DISCOVERY" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PT2021_30421_Furcovici_Teodora-Melania_Assignment_4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f449abf-b186-4829-bfff-48d52a115fe4" name="Default Changelist" comment="" />
+      <created>1620459673319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620459673319</updated>
+      <workItem from="1620459674574" duration="13100000" />
+      <workItem from="1620483492197" duration="7792000" />
+      <workItem from="1620634855299" duration="1206000" />
+      <workItem from="1620636085861" duration="22930000" />
+      <workItem from="1620722992671" duration="16549000" />
+      <workItem from="1620754241965" duration="5767000" />
+      <workItem from="1620800829111" duration="2009000" />
+      <workItem from="1620802877044" duration="12661000" />
+      <workItem from="1620817625565" duration="25078000" />
+      <workItem from="1620897752978" duration="18218000" />
+      <workItem from="1620929645962" duration="40730000" />
+      <workItem from="1621069890588" duration="3386000" />
+      <workItem from="1621075664135" duration="27664000" />
+      <workItem from="1621145932813" duration="20333000" />
+      <workItem from="1621177954958" duration="3640000" />
+      <workItem from="1621185787710" duration="2255000" />
+      <workItem from="1621191566869" duration="3465000" />
+      <workItem from="1621195418243" duration="671000" />
+      <workItem from="1621227735881" duration="478000" />
+      <workItem from="1621232011865" duration="111000" />
+      <workItem from="1621235228762" duration="1132000" />
+      <workItem from="1621250455509" duration="6174000" />
+      <workItem from="1621265657940" duration="3555000" />
+      <workItem from="1621274651694" duration="1941000" />
+      <workItem from="1621310873701" duration="482000" />
+      <workItem from="1621311391946" duration="82000" />
+      <workItem from="1621313962958" duration="2442000" />
+      <workItem from="1621681947446" duration="1465000" />
+      <workItem from="1621778194598" duration="654000" />
+      <workItem from="1621786444271" duration="158000" />
+      <workItem from="1621855155871" duration="1645000" />
+      <workItem from="1622662749018" duration="633000" />
+      <workItem from="1622716913642" duration="625000" />
+      <workItem from="1623352735675" duration="124000" />
+      <workItem from="1624345339931" duration="24000" />
+      <workItem from="1624345693246" duration="1429000" />
+      <workItem from="1645451625876" duration="1284000" />
+      <workItem from="1645543698631" duration="16000" />
+      <workItem from="1646298314470" duration="3998000" />
+      <workItem from="1646340223474" duration="32000" />
+      <workItem from="1646577289406" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1646577307351">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1646577307351" />
+    <state width="1493" height="60" key="GridCell.Tab.0.bottom" timestamp="1645452919805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="60" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1645452919805" />
+    <state width="1493" height="60" key="GridCell.Tab.0.center" timestamp="1645452919805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="60" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1645452919805" />
+    <state width="1493" height="60" key="GridCell.Tab.0.left" timestamp="1645452919804">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="60" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1645452919804" />
+    <state width="1493" height="60" key="GridCell.Tab.0.right" timestamp="1645452919805">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="60" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1645452919805" />
+    <state x="478" y="145" width="579" height="534" key="find.popup" timestamp="1645452635982">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="145" width="579" height="534" key="find.popup/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1645452635982" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/presentationLayer/AdminUI.java</url>
+          <line>248</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

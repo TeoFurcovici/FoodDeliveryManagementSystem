@@ -1,0 +1,18 @@
+1.	First use case (Insertion)
+Normal scenario
+		The user inputs all the data in a correct manner and it presses the button ADD, then updated table will be displayed in the interface.
+Alternative scenario
+		The user doesn`t fill in all the compulsory fields or in some fields the data introduced doesn`t respect the imposed format. In this case, a message will issue informing the user that the values are not correct.
+2.	Second use case (Deletion)
+Normal scenario
+	The user inputs all the data in a correct manner and it presses the button DELETE, then updated table will be displayed in the interface.
+
+Alternative scenario
+	The user doesn`t fill in all the compulsory fields or in some fields the data introduced doesn`t respect the imposed format. In this case, a message will issue informing the user that the values are not correct.
+
+3.	Third use case (Update)
+Normal scenario
+	The user inputs all the data in a correct manner and it presses the button MODIFY, then updated table will be displayed in the interface.
+
+Alternative scenario
+	The user doesn`t fill in all the compulsory fields or in some fields the data introduced doesn`t respect the imposed format. In this case, a message will issue informing the user that the values are not correct.

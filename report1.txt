@@ -1,0 +1,30 @@
+ORDERS PERFORMED IN A CERTAIN INTERVAL
+-------------------------------------------
+
+
+Order id: 1
+Client id: 1
+Order Date: 12/10/2000
+Order Time:8
+
+
+Order id: 2
+Client id: 1
+Order Date: 3/2/2020
+Order Time:8
+
+
+Order id: 3
+Client id: 2
+Order Date: 11/10/2019
+Order Time:8
+
+
+Order id: 4
+Client id: 1
+Order Date: 18/5/2021
+Order Time:8
+
+
+-------------------------------------
+END OF REPORT
